@@ -7,7 +7,7 @@ package actividad3;
 
 /**
  *
- * @author USUARIO
+ * @author Kevin Cabezas
  */
 public class Main {
     
